@@ -2,7 +2,7 @@ build:
   version: "1.0"
   
 accounts:
-  message: "Welcome to Vasu-Bank accounts related prod APIs "
+  message: "Welcome to Vasu-Bank accounts related vasus webhook APIs "
   contactDetails:
     name: "Vasu Sharma - Developer"
     email: "vasu@bank.com"
